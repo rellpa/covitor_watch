@@ -16,6 +16,6 @@ Picture Full enclosure:
   <img src="Full Enclosure Print.jpg" />
 </p>
 <p align="left">
-  <img src="Full Enclosure Print.jpg" />
+  <img src="Arrangement Component.jpg" />
 </p>
 
