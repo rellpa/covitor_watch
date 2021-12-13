@@ -18,6 +18,7 @@ Full enclosure:
   <img src="Full Enclosure Print.jpg" />
 </p>
 
+#
 
 Component arrangement:
 <p align="left">
