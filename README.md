@@ -21,7 +21,7 @@ with printer settings:
 - Supports: None
 - Duration for all parts: 1 hour (0.28mm quality)
 
-<i>*For watch strap please using 28mm size with 30mm Spring Bar</i>
+<i>*For watch strap, please using 28mm size with 30mm Spring Bar</i>
 
 #
 
