@@ -9,7 +9,6 @@ Smartwatch system, made for COVID-19 symptoms monitoring where you can monitor y
 Stay healthy and keep wearing your mask!! 😷
 
 #
-
 ## 🚨 3D Enclosure
 To create the 3D enclosure, we used 3D print Creality Ender-3 Pro
 with printer settings:
@@ -37,7 +36,6 @@ Component arrangement:
 </p>
 
 #
-
 # 🛠 Source Code for Arduino
 We're using ESP32 Wemos D1 Mini
 
