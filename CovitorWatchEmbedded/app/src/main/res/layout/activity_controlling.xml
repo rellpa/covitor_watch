@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context=".activity_controlling">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_back"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_reading"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginBottom="70dp"
+        android:layout_marginStart="20dp"/>
+    <Button
+        android:id="@+id/heartrate"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="@string/heart_rate_sensor"
+        android:textStyle="bold"
+        android:background="@drawable/button_rounded_blue_200"
+        android:textColor="@color/white"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center" />
+    <Button
+        android:id="@+id/oxygensaturation"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="@string/oxygen_saturation_sensor"
+        android:textStyle="bold"
+        android:background="@drawable/button_rounded_blue_200"
+        android:textColor="@color/white"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center" />
+    <Button
+        android:id="@+id/temperature"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="@string/temperature_sensor"
+        android:textStyle="bold"
+        android:background="@drawable/button_rounded_blue_200"
+        android:textColor="@color/white"
+        android:layout_marginBottom="25dp"
+        android:layout_gravity="center" />
+    <Button
+        android:id="@+id/changedevice"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="@string/change_device"
+        android:textStyle="bold"
+        android:background="@drawable/button_rounded_blue_200"
+        android:textColor="@color/white"
+        android:layout_gravity="center" />
+
+</LinearLayout>

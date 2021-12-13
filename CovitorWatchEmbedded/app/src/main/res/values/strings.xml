@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CoViTor Watch App</string>
+    <string name="set_up_device">Set Up Device</string>
+    <string name="connect_to_covitorwatch">Connect to CoViTor Watch</string>
+    <string name="please_turn_on_your_covitor_watch_for_pairing_to_this_device">Please turn on your CoViTor Watch for pairing to this device</string>
+    <string name="search_device">Search Device</string>
+    <string name="choose_device">Choose Device</string>
+    <string name="refresh">Refresh</string>
+    <string name="connect">Connect</string>
+    <string name="change_device">Change Device</string>
+    <string name="temperature_sensor">Temperature Sensor</string>
+    <string name="oxygen_saturation_sensor">Oxygen Saturation Sensor</string>
+    <string name="select_reading">Select reading</string>
+    <string name="welcome_back">welcome back,</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="message_shows_up_here">Message shows up here ...</string>
+    <string name="read">Read</string>
+    <string name="scroll">Scroll</string>
+    <string name="heart_rate_sensor">Heart Rate Sensor</string>
+    <string name="temperature">Temperature</string>
+    <string name="saturation">Saturation</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_device"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"/>
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="500dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="60dp">
+        <Button
+            android:id="@+id/search"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="70dp"
+            android:text="@string/refresh"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/button_rounded_blue_200"
+            style="?android:attr/buttonBarButtonStyle" />
+        <Button
+            android:id="@+id/connect"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="@string/connect"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/button_rounded_blue_200"
+            style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

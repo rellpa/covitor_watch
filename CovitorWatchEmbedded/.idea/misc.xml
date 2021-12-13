@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/drawable/button_rounded_blue_200.xml" value="0.28974358974358977" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_controlling.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_monitoring_heart.xml" value="0.22" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_monitoring_oxymeter.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_monitoring_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/activity_welcome_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Matthew Brandon Dani/AndroidStudioProjects/CovitorWatchEmbedded/app/src/main/res/layout/list_item.xml" value="0.161231884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
