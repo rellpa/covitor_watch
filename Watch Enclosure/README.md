@@ -11,10 +11,13 @@ with printer settings:
 
 <i>*For watch strap please using 28mm size with 30mm Spring Bar</i>
 
+#
+
 Full enclosure:
 <p align="left">
   <img src="Full Enclosure Print.jpg" />
 </p>
+
 
 Component arrangement:
 <p align="left">
