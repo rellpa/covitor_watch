@@ -1,5 +1,5 @@
 # CoViTor Watch
-## Final project of Embedded System Design.
+## Final project of Embedded System Design
 - CoViToR Watch App Created using Android Studio with java language
 
 ⌚⌚⌚⌚⌚
