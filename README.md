@@ -26,13 +26,13 @@ with printer settings:
 
 Full enclosure:
 <p align="left">
-  <img src="Full Enclosure Print.jpg" />
+  <img src="Watch Enclosure/Full Enclosure Print.jpg" />
 </p>
 
 
 Component arrangement:
 <p align="left">
-  <img src="Arrangement Component.jpg" />
+  <img src="Watch Enclosure/Arrangement Component.jpg" />
 </p>
 
 
