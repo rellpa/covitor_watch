@@ -1,5 +1,5 @@
 # 🔥 CoViTor Watch 🔥
-## Final project of Embedded System Design
+### Final project of Embedded System Design
 - CoViToR Watch App Created using Android Studio with java language
 
 ⌚⌚⌚⌚⌚
@@ -7,3 +7,32 @@
 Smartwatch system, made for COVID-19 symptoms monitoring where you can monitor your current health condition such as temperature, oxygen saturation, and heart rate. So when there are any symptoms of COVID-19 you can take the appropriate action.
 
 Stay healthy and keep wearing your mask!! 😷
+
+
+## 🚨 3D Enclosure
+To create the 3D enclosure, we used 3D print Creality Ender-3 Pro
+with printer settings:
+
+- Slicer App: PrusaSlicer 2.3.1
+- Print Setting: 0.28mm (use 0.16mm or 0.20mm for more tidy looks)
+- Filament: PLA (please use ABS or something stronger than PLA if you want more rigid)
+- Infill: 15%
+- Supports: None
+- Duration for all parts: 1 hour (0.28mm quality)
+
+<i>*For watch strap please using 28mm size with 30mm Spring Bar</i>
+
+#
+
+Full enclosure:
+<p align="left">
+  <img src="Full Enclosure Print.jpg" />
+</p>
+
+
+Component arrangement:
+<p align="left">
+  <img src="Arrangement Component.jpg" />
+</p>
+
+
