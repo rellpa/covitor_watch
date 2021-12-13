@@ -12,4 +12,6 @@ with printer settings:
 *For watch strap please using 28mm size with 30mm Spring Bar
 
 Picture Full enclosure:
-print.jpg
+<p align="center">
+  <img src="Full Enclosure Print.jpg" />
+</p>
