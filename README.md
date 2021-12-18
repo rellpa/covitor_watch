@@ -46,6 +46,9 @@ Budget for component on december 2021 = Rp. 321.400 (~ US $22,34)
   <img width="400" src="Images/MVC.jpg" />
 </p>
 
+#
+
+
 
 ## 🤖 Arduino
 We're using ESP32 Wemos D1 Mini
@@ -88,6 +91,8 @@ When using bluetooth serial, the heart rate and oximeter data are not updating b
 
 #
 
+
+
 ## 🚨 3D Enclosure
 To create the 3D enclosure, we used 3D print Creality Ender-3 Pro
 with printer settings:
@@ -116,6 +121,8 @@ Component arrangement:
 
 #
 
+
+
 ## 📱 CoViTor Watch APP
 <i>!!This app created using android studio and java languange</i>
 
@@ -125,7 +132,6 @@ In our embedded system (CoViTor Smartwatch), we use bluetooth serial (Bluetooth 
 <p align="left">
   <img width="400" src="Android Application/Demo App/Code1.jpg" />
 </p>
-#
 
 ### How to use this project ?
 For demo purpose (if you use same firmware as this embbeded system) you can install APK app on your android phone.
