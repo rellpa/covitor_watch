@@ -4,9 +4,7 @@
 #
 
 ## How this app work?
-In our embedded system (CoViTor Smartwatch), we using bluetooth serial (Bluetooth 2). So we can communicate using Bluetooth Socket from android.
-Basically, to use bluetooth communication to embedded systems is to use an outputstream to send data and an inputstream to get data. We just have to manage how both of them can work to form a useful application.
-For monitoring sequence, we use the way of asking when needed so embedded system not always send data. Firstly the app will send command that embedded system know what to send. After that embedded system will send sensor data to app, and app will parse byte data to string and integer for next process.
+In our embedded system (CoViTor Smartwatch), we use bluetooth serial (Bluetooth 2). So we can communicate using Bluetooth Socket from android. Basically, using bluetooth serial communication to an embedded system is to use an outputstream to send data and an inputstream to get data. We just need to manage how the two work together to form a useful application. For the monitoring sequence, we use a query method when needed so that the embedded system does not always send data. First the application will send a command that the embedded system knows what to send. After that the embedded system will send sensor data to the application, and the application will parse the byte data into strings or integers for further processing.
 
 <p align="left">
   <img width="400" src="Demo App/Code1.jpg" />
