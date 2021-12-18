@@ -10,7 +10,7 @@ Stay healthy and keep wearing your mask!! 😷
 
 #
 
-## How to make this embedded system.
+## 🔌 How to make this embedded system.
 ### List of component
 - Microcontroller Wemos D1 (NodeMCU ESP32 wifi+BL)
 - Watch Sized SSD1306 0.96 inch OLED LCD I2C
@@ -30,11 +30,11 @@ Budget for component on december 2021 = Rp. 321.400 (~ US $22,34)
 <p align="left">
   <img width="400" src="Images/Hardware Diagram.jpg" />
 </p>
-- I2C module (MAX30100, MAX30205, DS1307, SSD1306)
-  SCL -> GPIO 22 (ESP32)
-  SDA -> GPIO 21 (ESP32)
-  Vin -> 3.3V (ESP32)
-  GND -> GND (ESP32)
+- <i>I2C module (MAX30100, MAX30205, DS1307, SSD1306)</i>
+- SCL -> GPIO 22 (ESP32)
+- SDA -> GPIO 21 (ESP32)
+- Vin -> 3.3V (ESP32)
+- GND -> GND (ESP32)
 
 ### Architecture Diagram
 <p align="left">
@@ -116,14 +116,14 @@ Component arrangement:
 
 #
 
-## 👩🏻‍💻 CoViTor Watch APP
+## 📱 CoViTor Watch APP
 <i>!!This app created using android studio and java languange</i>
 
 ### How this app work?
 In our embedded system (CoViTor Smartwatch), we use bluetooth serial (Bluetooth 2). So we can communicate using Bluetooth Socket from android. Basically, using bluetooth serial communication to an embedded system is to use an outputstream to send data and an inputstream to get data. We just need to manage how the two work together to form a useful application. For the monitoring sequence, we use a query method when needed so that the embedded system does not always send data. First the application will send a command that the embedded system knows what to send. After that the embedded system will send sensor data to the application, and the application will parse the byte data into strings or integers for further processing.
 
 <p align="left">
-  <img width="400" src="Demo App/Code1.jpg" />
+  <img width="400" src="Android Application/Demo App/Code1.jpg" />
 </p>
 #
 
