@@ -30,6 +30,7 @@ Budget for component on december 2021 = Rp. 321.400 (~ US $22,34)
 <p align="left">
   <img width="400" src="Images/Hardware Diagram.jpg" />
 </p>
+
 - <i>I2C module (MAX30100, MAX30205, DS1307, SSD1306)</i>
 - SCL -> GPIO 22 (ESP32)
 - SDA -> GPIO 21 (ESP32)
