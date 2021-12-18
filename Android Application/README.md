@@ -28,9 +28,9 @@ If you want reverse engineering this project app:
 
 Some screenshoot of this app:
 <p align="left">
-  <img src="Demo App/Splash Screen.jpg" />
-  <img src="Demo App/Home Screen.jpg" />
-  <img src="Demo App/Readings 2.jpg" />
+  <img width="200" src="Demo App/Splash Screen.jpg" />
+  <img width="200" src="Demo App/Home Screen.jpg" />
+  <img width="200" src="Demo App/Readings 2.jpg" />
 </p>
 <i>For full screenshoot you can see in "Demo App" folder.</i>
 
