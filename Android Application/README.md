@@ -18,9 +18,9 @@ If you want reverse engineering this project app:
 1. Install android studio on your computer
 2. Clone "CovitorWatchEmbedded" folder
 3. Import that folder to android studio
-4. sync graddle (if necessary), and you success to import this app and ready to reverse engineering to your needs!
+4. Sync graddle (if necessary), and you success to import this app and ready to reverse engineering to your needs!
 
-<i>if need help, feel free to contact us! by MatthewBrandon21 / rellpa.</i>
+<i>if need help, feel free to contact us! MatthewBrandon21 / rellpa.</i>
 
 #
 
@@ -35,4 +35,4 @@ Some screenshoot of this app:
 #
 
 ### <i>*For improvement<i/>
-Maybe UI/UX design can be more prettier. FYI we use figma to design UI of this app.
+Maybe UI/UX design can be more prettier. FYI we use figma to design UI of this app and linear layout in xml layout.
