@@ -8,6 +8,11 @@ Smartwatch system, made for COVID-19 symptoms monitoring where you can monitor y
 
 Stay healthy and keep wearing your mask!! 😷
 
+<p align="left">
+  <img width="400" src="Images/FinalResult1.jpg" />
+  <img width="400" src="Images/FinalResult2.jpg" />
+</p>
+
 #
 
 ## 🔌 How to make this embedded system.
