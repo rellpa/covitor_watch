@@ -9,7 +9,7 @@ Basically, to use bluetooth communication to embedded systems is to use an outpu
 For monitoring sequence, we use the way of asking when needed so embedded system not always send data. Firstly the app will send command that embedded system know what to send. After that embedded system will send sensor data to app, and app will parse byte data to string and integer for next process.
 
 <p align="left">
-  <img src="Demo App/Code1.jpg" />
+  <img width="400" src="Demo App/Code1.jpg" />
 </p>
 #
 
